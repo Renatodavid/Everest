@@ -1,4 +1,5 @@
-![Everest](thumbnail.png)
+![Everest](![banner1-desktop](https://github.com/user-attachments/assets/c22a92ba-6f60-42f8-99a7-88ad66402daa)
+)
 
 # Everest - E-commerce de Moda
 
