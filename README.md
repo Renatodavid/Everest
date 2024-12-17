@@ -1,10 +1,11 @@
-![Meteora](thumbnail.png)
+![Everest](![banner1-desktop](https://github.com/user-attachments/assets/c22a92ba-6f60-42f8-99a7-88ad66402daa)
+)
 
-# Meteora - E-commerce de Moda
+# Everest - E-commerce de Moda
 
-O Meteora é um projeto de e-commerce em fase de desenvolvimento inicial. Este README fornece informações sobre o projeto, suas funcionalidades e como executá-lo em seu ambiente local.
+O Everest é um projeto de e-commerce em fase de desenvolvimento inicial. Este README fornece informações sobre o projeto, suas funcionalidades e como executá-lo em seu ambiente local.
 
-![GIF da aplicação em execução](meteora-app.gif)
+![GIF da aplicação em execução](everest-app.gif)
 
 ## 🔨 Funcionalidades do projeto
 
@@ -15,11 +16,9 @@ Neste estágio inicial de desenvolvimento, o Meteora possui as seguintes funcion
 - Visualizar a página do carrinho
 - Deletar itens do carrinho
 
-O [Figma dessa aplicação você encontra aqui](https://www.figma.com/file/R5ATrWK1nC44Eyeo6XZXlr/Meteora---Context-API?node-id=2386%3A2430&mode=dev).
-
 ## ✔️ Técnicas e tecnologias utilizadas
 
-O projeto Meteora utiliza as seguintes tecnologias e bibliotecas:
+O projeto Everest utiliza as seguintes tecnologias e bibliotecas:
 
 - `React` - Framework JavaScript
 - `Vite` - Build tool para desenvolvimento rápido
@@ -61,9 +60,6 @@ npm run dev
 
 ## 📚 Mais informações do projeto
 
-O Meteora é um e-commerce fictício de moda em constante desenvolvimento. Este projeto visa aprimorar as habilidades em React, e apresentar a Context API como uma solução para gerenciamento de estados globais de uma aplicação React.
+O Everest é um e-commerce fictício de moda em constante desenvolvimento. Este projeto visa aprimorar as habilidades em React, e apresentar a Context API como uma solução para gerenciamento de estados globais de uma aplicação React.
 
-O design e protótipo deste projeto podem ser encontrados [aqui](https://www.figma.com/file/R5ATrWK1nC44Eyeo6XZXlr/Meteora---Context-API?node-id=2386%3A2430&mode=dev).
-
-Aproveite o desenvolvimento e aprimoramento do Meteora!
 # Everest
